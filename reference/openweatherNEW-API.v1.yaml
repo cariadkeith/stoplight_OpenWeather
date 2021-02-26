@@ -11,7 +11,7 @@ info:
     name: Support
     url: 'https://openweathermap.org/api'
     email: some_email@gmail.com
-  termsOfService: 'https://openweathermap.org/terms'
+  termsOfService: 'https:/nweathermap.org/terms'
   license:
     name: CC Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
     url: 'https://openweathermap.org/price'
