@@ -14,7 +14,6 @@ info:
 servers:
   - url: 'url: https://api.openweathermap.org/data/2.5'
     description: prod
-paths: {}
 components:
   securitySchemes:
     app_id:
